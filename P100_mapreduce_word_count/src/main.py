@@ -23,6 +23,8 @@ def main():
     OUTPUT_FOLDER = os.path.join(ACTIVITY_FOLDER, "temp", "output")
     SUBMISSION_FOLDER = os.path.join(ACTIVITY_FOLDER, "submission")
 
+    
+
 
 
     # La carpeta input/ debe existir y estar vacia.
